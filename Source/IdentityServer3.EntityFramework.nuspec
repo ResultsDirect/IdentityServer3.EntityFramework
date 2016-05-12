@@ -12,8 +12,8 @@
     <licenseUrl>https://github.com/IdentityServer/IdentityServer3.EntityFramework/blob/master/LICENSE</licenseUrl>
     <summary>Entity Framework-based persistence layer for IdentityServer3</summary>
     <description>Entity Framework-based persistence layer for IdentityServer3</description>
-    <releaseNotes></releaseNotes>
-    <copyright>Copyright 2015</copyright>
+    <releaseNotes>Refactor token JSON conversion for asynchrony</releaseNotes>
+    <copyright>Copyright 2016</copyright>
     <tags>IdentityServer OpenID Connect OpenIDConnect OAuth2 OWIN ASP.NET Katana WebApi SSO Federation Claims Identity EF EntityFramework</tags>
 
     <dependencies>
